@@ -1,6 +1,6 @@
 ## **👋 Hi, I'm Aneel Kana**
 
-I'm a Computer Science graduate from the University of Illinois at Chicago, actively seeking a full-time role in software development or machine learning. I’m passionate about building efficient, scalable, and impactful solutions—whether it's designing AI workflows or developing full-stack applications.
+I'm a Computer Science graduate from the University of Illinois at Chicago, currently working at Revenova as a Junior Software Developer.
 
 ## **💼 What I’ve Worked On**
 
