@@ -1,6 +1,6 @@
 ## **👋 Hi, I'm Aneel Kana**
 
-I'm a Computer Science graduate from the University of Illinois at Chicago, currently working at Revenova as a Junior Software Developer.
+I'm a Computer Science graduate from the University of Illinois at Chicago, currently working at Revenova as a Software Developer.
 
 ## **💼 What I’ve Worked On**
 
@@ -27,7 +27,7 @@ Demonstrated expertise in designing and implementing AI solutions using Microsof
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aneelkana/)
 
-💼 [Resume](https://drive.google.com/file/d/1yeCocCHGGAOCIjGQkfD6hVnr5EVdgxyL/view?usp=sharing)
+💼 [Resume](https://docs.google.com/document/d/1MxY6Jp7GhoWHq4nSQMV5QsgOpOiuojGW8RecjX30JLY/edit?usp=sharing)
 
 <!---
 AneelKana/AneelKana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
