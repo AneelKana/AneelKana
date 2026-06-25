@@ -27,7 +27,8 @@ Demonstrated expertise in designing and implementing AI solutions using Microsof
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aneelkana/)
 
-💼 [Resume](https://docs.google.com/document/d/1MxY6Jp7GhoWHq4nSQMV5QsgOpOiuojGW8RecjX30JLY/edit?usp=sharing)
+💼 [Resume](https://github.com/user-attachments/files/29315247/final.resume.pdf)
+
 
 <!---
 AneelKana/AneelKana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
