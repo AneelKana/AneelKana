@@ -27,7 +27,8 @@ Demonstrated expertise in designing and implementing AI solutions using Microsof
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aneelkana/)
 
-💼 [Resume](https://github.com/user-attachments/files/29315247/final.resume.pdf)
+💼 [Resume](https://github.com/user-attachments/files/34186482/resume.generalized.final.pdf)
+
 
 
 <!---
